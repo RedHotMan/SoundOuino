@@ -1,14 +1,14 @@
 # SoundOuino
 Ardouino project / Piano notes
 
-IMPORTANT !!!!
+## IMPORTANT !!!!
 
-TO USE:
+### TO USE:
   Install :=>
     npm
-    johnny-five
-    temporal
-    board
-    firebase
-    Player
-    events
+    ,johnny-five
+    ,temporal
+    ,board
+    ,firebase
+    ,Player
+    ,events
