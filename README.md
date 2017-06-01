@@ -1,5 +1,5 @@
 # SoundOuino
-Ardouino project / Piano notes
+Arduino project / Piano notes
 
 ## IMPORTANT !!!!
 
